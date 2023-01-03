@@ -1,0 +1,15 @@
+header{
+    height: 500px;
+    background-image: url('IMG_20201114_174235');
+}
+h3{
+    color: rgb(97, 76, 231);
+    font-family: fantasy;
+
+}
+p{
+    color: cadetblue;
+}
+ol{
+    color: cadetblue;
+}

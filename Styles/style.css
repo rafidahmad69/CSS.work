@@ -1,0 +1,35 @@
+header{
+    height: 600px;
+    background-image: url('h2r.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-blend-mode: multiply;
+    /*background-color: rgb(155, 155, 155);*/
+    background-size: contain;
+}
+.hi{
+    background-color: rgb(58, 58, 58);
+    box-shadow: 10px 10px 10px rgb(255, 0, 0);
+    margin: 50px;
+    padding: 40px 80px
+}
+.page-title{
+    color:rgb(92, 78, 0)
+}
+h3{
+    color: rgb(97, 76, 231);
+    font-family:cursive;
+    text-decoration: underline overline rgb(97, 76, 231);
+}
+p{
+    color: cadetblue;
+    font-size: large;
+}
+ol{
+    color: cadetblue;
+    background-color: rgb(58, 58, 58);
+    width: 50%;
+    box-shadow: 10px 10px 10px rgb(255, 0, 0);
+    margin: 50px;
+    padding: 40px 80px
+}
